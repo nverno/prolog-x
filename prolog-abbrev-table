@@ -1,0 +1,6 @@
+;; -*- coding: utf-8; mode: emacs-lisp; no-byte-compile: t; -*-
+
+(define-abbrev-table 'prolog-mode-abbrev-table
+  '()
+  "Prolog-Mode Abbrevs."
+  :parents (list prog-mode-abbrev-table))
